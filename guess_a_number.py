@@ -1,19 +1,43 @@
 import random
 
-rand = random.randint(1, 100)
-print("I'm thinking of a number from 1 to 100.");
+#config
+low = 1
+high = 100
+limit = 10
+
+#helper functions
+def get_guess():
+    while True:
+        guess = input("Take a guess: ")
+
+        if guess.isnumeric():
+            guess = int(guess)
+            return guess
+        else:
+            print("Please enter a number that is positive.")
+                  
+#start game
+rand = random.randint(low, high)
+print("I'm thinking of a number from " + str(low) + " to " + str(high) + ".");
 
 guess = -1
+tries = 0
 
-while guess != rand:
-    guess = input("Take a guess: ")
-    guess = int(guess)
+#play game
+while guess != rand and tries < limit:
+    guess = get_guess()
     
     if guess < rand:
         print("You guessed too low.")
     elif guess > rand:
         print("You guessed too high.")
-    else:
-        print("You got it!")
+        
+    tries += 1
 
-print("Game over")
+#end game
+if guess == rand:
+    print("You win!")
+else:
+    print("NANI!? You have no tries left!")
+
+    
