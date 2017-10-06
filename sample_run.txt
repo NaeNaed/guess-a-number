@@ -1,0 +1,127 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>>  __    _     ____  __   __        __        _      _     _      ___   ____  ___        __         _       
+/ /`_ | | | | |_  ( (` ( (`      / /\      | |\ | | | | | |\/| | |_) | |_  | |_)      / /\   __  | |  __  
+\_\_/ \_\_/ |_|__ _)_) _)_)     /_/--\     |_| \| \_\_/ |_|  | |_|_) |_|__ |_| \     /_/--\ (_() |_| (_()           
+ 
+Please enter a name Alejandro
+ 
+What do you want the low to be Alejandro. 1
+ 
+Thanks! 
+ 
+What do you want the high to be Alejandro. 100
+ 
+Thanks! 
+ 
+Think of a number from 1 to 100 Alejandro.
+ 
+Press enter when you are ready 
+ 
+I have 6 out of 7 left. 
+ 
+Is your number 50.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' lower
+ 
+I have 5 out of 7 left. 
+ 
+Is your number 25.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' higher
+ 
+I have 4 out of 7 left. 
+ 
+Is your number 37.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' lower
+ 
+I have 3 out of 7 left. 
+ 
+Is your number 31.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' higher
+ 
+I have 2 out of 7 left. 
+ 
+Is your number 34.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' lower
+ 
+I have 1 out of 7 left. 
+ 
+Is your number 32.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' yes
+I win!
+Would you like to play again? (y/n) y
+ 
+Please enter a name aLEJANDRO
+ 
+What do you want the low to be aLEJANDRO. 1
+ 
+Thanks! 
+ 
+What do you want the high to be aLEJANDRO. 100
+ 
+Thanks! 
+ 
+Think of a number from 1 to 100 aLEJANDRO.
+ 
+Press enter when you are ready LOWER
+ 
+I have 6 out of 7 left. 
+ 
+Is your number 50.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' lOWER
+ 
+I have 5 out of 7 left. 
+ 
+Is your number 25.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' LOWER
+ 
+I have 4 out of 7 left. 
+ 
+Is your number 13.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' l
+ 
+I have 3 out of 7 left. 
+ 
+Is your number 7.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' L
+ 
+I have 2 out of 7 left. 
+ 
+Is your number 4.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' H
+ 
+I have 1 out of 7 left. 
+ 
+Is your number 5.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' h
+ 
+I have 0 out of 7 left. 
+ 
+Is your number 6.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' n
+Please type 'yes' 'lower' or 'higher'. 
+ 
+I have 0 out of 7 left. 
+ 
+Is your number 6.
+ 
+If the guess is correct type 'yes' if too high type 'lower' if too low type 'higher' lowEr
+ 
+I think you made a mistake somewhere.
+I win!
+Would you like to play again? (y/n) n
+ __    ___   ____   __   _____  ____  ___       ___   _          __    _     ____    _    __    _      ___   ___   ___  
+/ /`  | |_) | |_   / /\   | |  | |_  | | \     | |_) \ \_/      / /\  | |   | |_    | |  / /\  | |\ | | | \ | |_) / / \ 
+\_\_, |_| \ |_|__ /_/--\  |_|  |_|__ |_|_/     |_|_)  |_|      /_/--\ |_|__ |_|__ \_|_| /_/--\ |_| \| |_|_/ |_| \ \_\_/ 

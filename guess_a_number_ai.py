@@ -74,12 +74,13 @@ def check_guess(guess):
     else:
         print("Please type 'yes' 'lower' or 'higher'. ")
     
+
 def show_result():
     pass
 
 def play_again():
     while True:
-        print("I got it!")
+        print("I win!")
         
         decision = input("Would you like to play again? (y/n) ")
         decision = decision.lower()
@@ -148,7 +149,4 @@ while playing:
     playing = play_again()
 
 show_credits()
-
-player_name = get_name()
-
 
